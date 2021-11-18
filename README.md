@@ -2,7 +2,6 @@
 
 🔭 About me:
 
-- 💻 I’m currently working as a **Software Engineer**
 - 💻 I've been working with software development since 2011
 - 🏫 I’m graduated in Information Systems
 - 💙 I love programming and learn new technologies
