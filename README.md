@@ -2,9 +2,9 @@
 
 🔭 About me:
 
-- 💻 I've been working with software development since 2011
+- 💻 I've been working with software development with .NET since 2011
 - 🏫 I’m graduated in Information Systems
-- 💙 I love programming and learn new technologies
+- 💙 I love programming and learning new technologies
 
 #### Follow me:
 
