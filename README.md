@@ -9,12 +9,13 @@
 
 #### Certifications 🏆
 
-[![](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/84982cec-cebf-4655-b106-5409ac1ab035)
-[![](https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)](https://www.credly.com/badges/167619d2-6cfd-47b4-9d8f-d7eac7e31ce0)
-[![](https://images.credly.com/size/110x110/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png)](https://www.credly.com/badges/1735950c-5216-4601-a4a1-e30890f42a69)
-[![](https://images.credly.com/size/110x110/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)](https://www.credly.com/badges/b3f79450-3a4a-4fb7-a142-16168af30911)
-[![](https://images.credly.com/size/110x110/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)](https://www.credly.com/badges/adee5c31-81c2-4c27-be5c-900d89610163)
-[![](https://images.credly.com/size/110x110/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png)](https://www.credly.com/badges/8e070c47-30a3-4794-9d3e-5a0ea3f85f98)
+[![](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://learn.microsoft.com/api/credentials/share/en-us/HenriqueSiebertDomareski-8244/41743BBFF2A8B682?sharingId=E530FEA7B2462A1B)
+[![](https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)](https://learn.microsoft.com/api/credentials/share/en-us/HenriqueSiebertDomareski-8244/B948BCAE7E5FE393?sharingId=E530FEA7B2462A1B)
+[![](https://images.credly.com/size/110x110/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png)](https://learn.microsoft.com/api/credentials/share/en-us/HenriqueSiebertDomareski-8244/52FB8E290ECAE4ED?sharingId=E530FEA7B2462A1B)
+[![](https://images.credly.com/size/110x110/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)](https://learn.microsoft.com/api/credentials/share/en-us/HenriqueSiebertDomareski-8244/B4E9593C4A5DB002?sharingId=E530FEA7B2462A1B)
+[![](https://images.credly.com/size/110x110/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)](https://learn.microsoft.com/api/credentials/share/en-us/HenriqueSiebertDomareski-8244/8995FE5ED6531695?sharingId=E530FEA7B2462A1B)
+[![](https://images.credly.com/size/110x110/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png)](https://learn.microsoft.com/api/credentials/share/en-us/HenriqueSiebertDomareski-8244/6B4E7F7D83E3CB6F?sharingId=E530FEA7B2462A1B)
+[![](https://images.credly.com/size/110x110/images/515fa1dc-ac4a-4f08-ac73-6fd9694124cb/image.png)](https://learn.microsoft.com/api/credentials/share/en-us/HenriqueSiebertDomareski-8244/313633AC6B060576?sharingId=E530FEA7B2462A1B)
 
 #### GitHub Stats 📊
 
